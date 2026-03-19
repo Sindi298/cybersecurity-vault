@@ -1,0 +1,4 @@
+    Server-side Email Configuration - SPF (Sender Policy Framework) - designed                                      to prevent email spoofing, and protect                                         against forged or unauthorized use of                                          domain names in email messages
+                           - DKIM (Domain Keys Identified Mail) - designed to                              verify the authenticity and integrity of email                                 messages ie: it allows the recipient to check if  ;]
+                           - an email was sent by the claimed sender and if it has been tampered with during transmission.
+                           - DMARC (Domain Based Message Authentication,                                   Reporting, and Conformance)

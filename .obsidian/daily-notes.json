@@ -1,5 +1,4 @@
 {
   "format": "DD-MM-YYYY",
-  "template": "Templates/Lab Template",
-  "autorun": true
+  "template": "Templates/Lab Template"
 }
